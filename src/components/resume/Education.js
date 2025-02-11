@@ -61,14 +61,14 @@ const Education = () => {
           />
           <ResumeCard
             title="Learn ReactJS by Building 5 Projects"
-            subTitle="Codedamn - Feb-2022"
+            subTitle="Codedamn - Feb-2024"
             result="View"
             des="A beginner-friendly course that teaches ReactJS by building projects, starting with the basics and progressing to more advanced applications."
             certref='https://codedamn.com/certificate/verify/1bfd71f0ae2732be983dd49b2a1bf9448ed27b88'
           />
           <ResumeCard
             title="Tailwind CSS Crash Course"
-            subTitle="Codedamn - Jan-2022"
+            subTitle="Codedamn - Jan-2024"
             result="view"
             des="A comprehensive course that teaches web design using Tailwind CSS and React, enabling you to build stylish, responsive websites efficiently."
             certref="https://codedamn.com/certificate/verify/95716dab875994379646f7e62f0eec0a1515bbb1"
