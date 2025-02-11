@@ -35,25 +35,23 @@ const Projects = () => {
           src={projectThree}
         />
         <ProjectsCard
-          title="SSI System"
-          des="The Self-Sovereign Identity (SSI) system is a revolutionary approach to digital identity management that empowers individuals to have complete control over their personal information. Unlike traditional identity systems, where centralized entities store and control user data, SSI enables users to manage their identity information independently, securely, and privately."
+          title="Typing Game"
+          des="A challenge to test and improve typing speed and accuracy."
           src={projectFour}
-          githubLink="https://github.com/saji37/veramo"
+          githubLink="https://github.com/Bhramarambha8660/Typing-Game"
           
         />
         <ProjectsCard
-          title="Temple Management"
-          des="This is the admin dashboard for temple management. It is built using react and tailwind"
+          title="Breakout Game"
+          des="A fun and interactive game where you break bricks using a bouncing ball and a paddle."
           src={projectFive}
-          githubLink="https://github.com/saji37/Temple-Management"
-          websiteLink="https://templesevamanagement.netlify.app/"
+          githubLink="https://github.com/Bhramarambha8660/Breakout-Game"
         />
         <ProjectsCard
-          title="Quiz App"
-          des="The Quiz App is an interactive and engaging application designed to test users' knowledge on various topics through a series of questions and answers. It provides an enjoyable way for users to learn new information, challenge themselves, and compete with others."
+          title="Password Generator "
+          des="A tool that creates strong and customizable passwords to enhance security."
           src={projectSix}
-          githubLink="https://github.com/saji37/Quiz_app"
-      
+          githubLink="https://github.com/Bhramarambha8660/Password-Generator"     
         />
       </div>
     </section>

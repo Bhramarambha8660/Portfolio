@@ -35,7 +35,7 @@ const ContactLeft = () => {
             <SiGithub /></a>
           </span>
           <span className="bannerIcon">
-            <a href="https://instagram.com/soulof__art?igshid=MzNlNGNkZWQ4Mg==" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/chandana_bhramara?igsh=YXhtM253M2Nob2h1" target="_blank" rel="noopener noreferrer">
               <SiInstagram /></a>
             </span>
             <span className="bannerIcon">
