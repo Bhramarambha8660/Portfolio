@@ -3,7 +3,7 @@ import { Link } from "react-scroll";
 import { FiMenu } from "react-icons/fi";
 import { MdClose } from "react-icons/md";
 import {  FaLinkedinIn } from "react-icons/fa";
-import { SiGithub,SiGmail } from "react-icons/si";
+import { SiGithub,SiGmail,SiInstagram } from "react-icons/si";
 import {logo} from "../../assets/index"
 import { navLinksdata } from '../../constants';
 
@@ -75,14 +75,21 @@ const Navbar = () => {
                 </h2>
                 <div className="flex gap-4">
                   <span className="bannerIcon">
-                    <SiGithub />
+                  <a href="https://github.com/bhramarambha8660" target="_blank" rel="noopener noreferrer">
+                    <SiGithub /></a>
                   </span>
                   <span className="bannerIcon">
-                    <SiGmail />
+                  <a href="https://github.com/bhramarambha8660" target="_blank" rel="noopener noreferrer">
+                    <SiGmail /></a>
                   </span>
                   <span className="bannerIcon">
-                    <FaLinkedinIn />
+                  <a href="https://www.linkedin.com/in/bhramarambha-c-b-5a565a275/" target="_blank" rel="noopener noreferrer">
+                    <FaLinkedinIn /></a>
                   </span>
+                  <span className="bannerIcon">
+            <a href="https://www.instagram.com/chandana_bhramara?igsh=YXhtM253M2Nob2h1" target="_blank" rel="noopener noreferrer">
+              <SiInstagram /></a>
+            </span>
                 </div>
               </div>
               <span
