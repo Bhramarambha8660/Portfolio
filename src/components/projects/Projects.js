@@ -25,7 +25,7 @@ const Projects = () => {
         />
         <ProjectsCard
           title="Hospital Website"
-          des="The Expense Tracker is an innovative application that leverages Machine Learning (ML) algorithms to analyze users' spending patterns and provide personalized financial insights. The goal is to help users make informed financial decisions and improve their budget management."
+          des="This hospital website provides easy access to contact details, doctor profiles, a gallery of facilities, and an appointment booking system for patient convenience."
           src={projectTwo}
           githubLink="https://github.com/Bhramarambha8660/HospitalWebsite_PHP"
         />
@@ -48,10 +48,10 @@ const Projects = () => {
           githubLink="https://github.com/Bhramarambha8660/Breakout-Game"
         />
         <ProjectsCard
-          title="Password Generator "
-          des="A tool that creates strong and customizable passwords to enhance security."
+          title="Full-stack-todo-app"
+          des="A full-stack Todo app using Vue.js, Pinia, NestJS, and MongoDB for efficient task management with a sleek, responsive interface."
           src={projectSix}
-          githubLink="https://github.com/Bhramarambha8660/Password-Generator"     
+          githubLink="https://github.com/Bhramarambha8660/full-stack-todo-app"     
         />
       </div>
     </section>

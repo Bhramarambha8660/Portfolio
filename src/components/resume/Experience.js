@@ -19,7 +19,7 @@ const Experience = () => {
             title="Associate Software Devloper"
             subTitle="Innorium Business Solutions Pvt. Ltd. - (2023 - Present)"
             result="Mysure"
-            des="I have joined in Innorium Business Solutions , mysure as a associative software developer from 8th of may, 2024"
+            des="I have joined in Innorium Business Solutions , mysure as a associative software developer from 8th of sept, 2024"
           />
 
         </div>

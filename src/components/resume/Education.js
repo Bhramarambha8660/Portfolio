@@ -42,7 +42,7 @@ const Education = () => {
             des="Studied in this school from primary to 10th std. SSC Subjects: English, Hindi, Kannada, Maths, Science, Social Sciences."
           /> 
         </div>
-      </div>
+      </div> 
       {/* part Two */}
 
       <div>
