@@ -42,7 +42,3 @@ You may also see any lint errors in the console.
 ### Continued development
 I would like to learn advanced tech skills and libraries like three.js which will help me create a beautiful 3D UI for my portfolio website.
 
-### Author
-
-LinkedIn - [Mihir Chavan](https://www.linkedin.com/in/mihir-chavan-643615234/)
-Github - [@mihirc0111](https://github.com/mihirc0111)
