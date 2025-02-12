@@ -74,13 +74,14 @@ const Navbar = () => {
                   Find me in
                 </h2>
                 <div className="flex gap-4">
+                <span className="bannerIcon">
+                 <a href="mailto:bhramarambha8660@gmail.com" target="_blank" rel="noopener noreferrer">
+                 <SiGmail />
+                  </a>
+                 </span>
                   <span className="bannerIcon">
                   <a href="https://github.com/bhramarambha8660" target="_blank" rel="noopener noreferrer">
                     <SiGithub /></a>
-                  </span>
-                  <span className="bannerIcon">
-                  <a href="https://github.com/bhramarambha8660" target="_blank" rel="noopener noreferrer">
-                    <SiGmail /></a>
                   </span>
                   <span className="bannerIcon">
                   <a href="https://www.linkedin.com/in/bhramarambha-c-b-5a565a275/" target="_blank" rel="noopener noreferrer">
